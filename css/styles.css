@@ -1,0 +1,156 @@
+/* is using in whole project */
+.container-fluid {
+    padding: 3% 15%;
+}
+
+/* nav bar */
+.navbar {
+    padding-bottom: 2rem;
+}
+.navbar-brand {
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.nav-link {
+    font-size: 1.25rem;
+}
+.nav-item {
+    padding: 0 18px;
+}
+.navbar {
+    text-transform: uppercase;
+}
+.nav-link:hover {
+    color: #fff;
+}
+
+/* title */
+#title {
+    background-color: #325c47;
+}
+#title img {
+    max-width: 90%;
+    border-radius: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#title h1 {
+    color: #fff;
+    font-size: 3rem;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 200;
+}
+.title-row {
+    margin-top: 5%;
+}
+/* features */
+#features h2 {
+    font-size: 2rem;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    line-height: 1.3;
+}
+#features p {
+    font-size: 1.5rem;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 300;
+    line-height: 1.3;
+}
+.features-icon {
+    color: #118F50;
+    margin-bottom: 1rem;
+}
+#features {
+    text-align: center;
+}
+.features-rows {
+    padding: 0 5%;
+}
+#features .container-fluid {
+    padding: 3% 15% 0 15%;
+}
+
+/* product */
+
+#product img{
+    height: 25rem;
+    margin: 3% auto;
+}
+
+/* map */
+#map {
+    background-color: #325c47;
+}
+#map h2 {
+    font-size: 2rem;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    line-height: 1.3;
+    color: #fff;
+}
+#map p {
+    font-size: 1.5rem;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 300;
+    line-height: 1.3;
+    color: #fff;
+}
+.map-rows {
+    margin: 5% 0 7% 0;
+}
+#map iframe {
+    border-radius: 3%;
+    width: 90%;
+    height: 22rem;
+}
+#map h3 {
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    line-height: 1.3;
+    font-size: 3rem;
+}
+
+/* contact */
+
+#contact h3 {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    line-height: 1.3;
+    font-size: 3rem;
+    margin-bottom: 5%;
+}
+
+#contact p {
+    font-size: 1.5rem;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 300;
+    line-height: 1.3;
+    color: black;
+    
+}
+#contact p {
+    font-size: 1.5rem;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 300;
+    line-height: 1.3;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 2rem;
+}
+#contact i {
+    color: #118F50;
+}
+#contact h2 {
+    font-size: 2rem;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    line-height: 1.3;
+}
+.container-contact {
+    margin: 2rem 0 2rem 0;
+}
+#contact a {
+    text-decoration: none;
+}
